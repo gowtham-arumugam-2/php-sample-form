@@ -8,7 +8,7 @@
 <body>
     <h2>Customer Information</h2>
     <form action="submit.php" method="POST">
-        <label for="name">Name:</label>
+        <label for="name">Name :</label>
         <input type="text" id="name" name="name" required><br><br>
 
         <label for="age">Age:</label>
